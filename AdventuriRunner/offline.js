@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502678262,
+	"version": 1502679539,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,7 @@
 		"media/whoosh_3.ogg",
 		"media/whoosh_4.ogg",
 		"media/whoosh_5.ogg",
+		"media/opengameart.org.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

@@ -23965,6 +23965,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Tilemap.prototype.exps.X,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.behaviors.Pin.prototype.acts.Pin,
+	cr.plugins_.Audio.prototype.acts.Play,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
 	cr.system_object.prototype.acts.Wait
 ];};
