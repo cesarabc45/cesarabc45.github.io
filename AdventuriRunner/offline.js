@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504493884,
+	"version": 1504530527,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,6 +66,8 @@
 		"images/sensorpulo-sheet0.png",
 		"images/logo-sheet0.png",
 		"images/sensor-sheet0.png",
+		"images/btnpause-sheet0.png",
+		"images/whatsappimage20170903at-sheet0.png",
 		"media/blood_impact1.ogg",
 		"media/impact.ogg",
 		"media/kunai1.ogg",
