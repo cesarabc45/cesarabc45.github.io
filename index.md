@@ -13,12 +13,14 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Game  
 
-[Jogo 1 Oficina : Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
+[![](Jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 
-[jogo 2 Oficina : AdventuriRunner](https://cesarabc45.github.io/AdventuriRunner/)
+[jogo 2 Oficina : AdventuriRunner](https://cesarabc45.github.io/AdventuriRunner/)  
+
+
 
 ## Artes  
-![IMAGE](http://www.passeiorevestimentos.com.br/pixels/)  
+![IMAGE](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAXcAAAAJDM4MTQ0OTk3LTg4N2ItNGM0MS1iMWIyLTI4NjcxMzY2ZGYxMw.jpg)  
 ![](Mario.png)  
 ![](Jogo1.png)
 
