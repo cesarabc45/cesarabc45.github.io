@@ -18,7 +18,9 @@ Criando a _minha_ **página** ~~principal~~
 [jogo 2 Oficina : AdventuriRunner](https://cesarabc45.github.io/AdventuriRunner/)
 
 ## Artes  
-![IMAGE] (http://www.passeiorevestimentos.com.br/pixels/)
+![IMAGE](http://www.passeiorevestimentos.com.br/pixels/)  
+![](Mario.png)  
+![](Jogo1.png)
 
 ## Apresentação  
 * Aula de Música  
