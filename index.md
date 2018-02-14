@@ -13,9 +13,9 @@ Criando a _minha_ **página** ~~principal~~
 
   * Cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN.  
   
-  ## Contatos pessoais  
+## Contatos pessoais  
   
-  [Facebook :](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
+  [Facebook : César Souza](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
 
   
 
