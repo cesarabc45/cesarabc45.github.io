@@ -7,7 +7,17 @@ Criando a _minha_ **página** ~~principal~~
 
 # Quem sou eu 
 
-  Sou estudante de jogos que gosta da aula do professor Marcelo.
+  ![](cesar.jpg)  
+  
+  * Tudo bem, galera? Sou Julio César, mas todos conhece-me por César.
+
+  * Cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN.  
+  
+  ## Contatos pessoais  
+  
+  [Facebook :](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
+
+  
 
 # Produções  
 
