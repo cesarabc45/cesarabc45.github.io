@@ -16,6 +16,8 @@ Criando a _minha_ **página** ~~principal~~
 ## Contatos pessoais  
   
   [Facebook : César Souza](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
+  
+  [Instagram : cesar_souza45](https://www.instagram.com/cesar_souza45/)
 
   
 
