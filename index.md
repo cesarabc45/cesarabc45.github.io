@@ -27,7 +27,7 @@ Criando a _minha_ **página** ~~principal~~
 
 # Portfólio
 
-## Game  
+## Games  
 
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
