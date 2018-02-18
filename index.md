@@ -32,8 +32,8 @@ Criando a _minha_ **página** ~~principal~~
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 
-[jogo 2 Oficina : AdventuriRunner](https://cesarabc45.github.io/AdventuriRunner/)  
-
+[Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner/)  
+[![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
 
 
 ## Artes  
