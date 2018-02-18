@@ -36,7 +36,7 @@ Criando a _minha_ **página** ~~principal~~
 [![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
 
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
-[![](jogo2.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
+[![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 
 
 ## Artes  
