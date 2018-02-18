@@ -39,7 +39,8 @@ Criando a _minha_ **página** ~~principal~~
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 
 
-## Artes dos jogos  
+## Artes dos jogos 
+### Jogo Animal Skills:  
 * Fases 1  e 2      
 ![](fase1.png)  ![](fase2.png)  
 
