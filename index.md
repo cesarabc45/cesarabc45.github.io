@@ -48,7 +48,7 @@ Criando a _minha_ **página** ~~principal~~
 ![](fase3.png)  ![](fasefinal.png)  
 
 #### Jogo Adventuri Runner:  
-* Fases 1 e 2 
+* Fases 1 e 2   
 ![](fase1.1.png)  ![](fase2.2.png)  
 
 ## Apresentação  
