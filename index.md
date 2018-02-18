@@ -7,7 +7,7 @@ Criando a _minha_ **página** ~~principal~~
 
 # Quem sou eu 
 
-  ![](cesar.jpg)  
+  ![](cesar.png)  
   
   * Tudo bem, galera? Sou Julio César, mas todos conhece-me por César.
 
