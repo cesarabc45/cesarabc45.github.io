@@ -30,7 +30,7 @@ Criando a _minha_ **página** ~~principal~~
 ## Game  
 
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
-[![](Jogo 1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
+[![](Jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 
 [jogo 2 Oficina : AdventuriRunner](https://cesarabc45.github.io/AdventuriRunner/)  
 
