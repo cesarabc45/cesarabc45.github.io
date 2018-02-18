@@ -19,7 +19,8 @@ Criando a _minha_ **página** ~~principal~~
   [![](Facebook.png)](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
 
   [Instagram : cesar_souza45](https://www.instagram.com/cesar_souza45/)  
-  [![](instagram.png)](https://www.instagram.com/cesar_souza45/)
+  [![](instagram.png)](https://www.instagram.com/cesar_souza45/)  
+  
   E-mail: juliocesarabc45@gmail.com
 
   
