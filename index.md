@@ -16,10 +16,11 @@ Criando a _minha_ **página** ~~principal~~
 ## Contatos pessoais  
   
   [Facebook : César Souza](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
-  
+  [![](Facebook.png)](https://www.facebook.com/juliocesar.oliveiradesouza.98/)  
+
   [Instagram : cesar_souza45](https://www.instagram.com/cesar_souza45/)  
-  
-  Gmail: juliocesarabc45@gmail.com
+  [![](instagram.png)](https://www.instagram.com/cesar_souza45/)
+  E-mail: juliocesarabc45@gmail.com
 
   
 
