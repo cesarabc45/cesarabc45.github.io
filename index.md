@@ -40,8 +40,11 @@ Criando a _minha_ **página** ~~principal~~
 
 
 ## Artes dos jogos  
+* Fases 1  e 2      
+![](fase1.png)  ![](fase2.png)  
 
-![](fase1.png)  ![](fase2.png)  ![](fase3.png)  ![](fasefinal.png)  
+* Fases 3 e final  
+![](fase3.png)  ![](fasefinal.png)  
 
 ## Apresentação  
 * Aula de Música  
