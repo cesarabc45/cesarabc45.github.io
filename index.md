@@ -39,10 +39,9 @@ Criando a _minha_ **página** ~~principal~~
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 
 
-## Artes  
-![IMAGE](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAXcAAAAJDM4MTQ0OTk3LTg4N2ItNGM0MS1iMWIyLTI4NjcxMzY2ZGYxMw.jpg)  
-![](Mario.png)  
-![](Jogo1.png)
+## Artes dos jogos  
+
+![](fase1.png)  ![](fase2.png)  ![](fase3.png)  ![](fasefinal.png)  
 
 ## Apresentação  
 * Aula de Música  
