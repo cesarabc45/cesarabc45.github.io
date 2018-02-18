@@ -40,7 +40,7 @@ Criando a _minha_ **página** ~~principal~~
 
 
 ## Artes dos jogos 
-### Jogo Animal Skills:  
+#### Jogo Animal Skills:  
 * Fases 1  e 2      
 ![](fase1.png)  ![](fase2.png)  
 
