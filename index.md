@@ -47,6 +47,10 @@ Criando a _minha_ **página** ~~principal~~
 * Fases 3 e final  
 ![](fase3.png)  ![](fasefinal.png)  
 
+#### Jogo Adventuri Runner:  
+* Fases 1 e 2 
+![](fase1.1.png)  ![](fase2.2.png)  
+
 ## Apresentação  
 * Aula de Música  
 * Aula de teatro  
