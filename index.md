@@ -70,7 +70,7 @@ Criando a _minha_ **página** ~~principal~~
 [Tutorial Multi-idomas](https://drive.google.com/open?id=0B-i9Pv-U5eQONERXWlZmZmhLQWRmVGFndzJjeHZyMWJSdjJn)  
 Equipe: Jefferson Leocardo e João Kennedy.  
 
-* Influence map  
+#### Influence map  
 ![](map.png)
 
 
