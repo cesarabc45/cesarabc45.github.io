@@ -21,7 +21,10 @@ Criando a _minha_ **página** ~~principal~~
   [Instagram : cesar_souza45](https://www.instagram.com/cesar_souza45/)  
   [![](instagram.png)](https://www.instagram.com/cesar_souza45/)  
   
-  E-mail: juliocesarabc45@gmail.com
+  E-mails: juliocesarabc45@gmail.com  
+           juliocesarabc45@hotmail.com  
+           julio.souza@academico.ifrn.edu.br  
+           julio.souza@escolar.ifrn.edu.br
 
   
 
@@ -44,7 +47,7 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Artes dos jogos 
 
-* _ Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos. 
+* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos. 
 
 ## Projetos desenvolvidos 
 
