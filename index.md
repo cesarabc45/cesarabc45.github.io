@@ -11,7 +11,7 @@ Criando a _minha_ **página** ~~principal~~
   
   * Tudo bem, galera? Sou Julio César, mas todos conhece-me por César.
 
-  * Cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN.  
+  * Cursando o 3º ano de programação de jogos Digitais, IFRN-campus Ceará-Mirim/RN.  
   
 ## Contatos pessoais  
   
@@ -50,6 +50,16 @@ Criando a _minha_ **página** ~~principal~~
 #### Jogo Adventuri Runner:  
 * Fases 1 e 2   
 ![](fase1.1.png)  ![](fase2.2.png)  
+
+#### Pense se você puder:
+* Jogo ainda está em desenvolvimento, por isso ainda não tem as artes desse jogo.  
+
+## Projetos desenvolvidos 
+
+* Projeto integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S
+![](Exportec.png)
+
+* Orientadores: Daniela Beny Polito Moraes.
 
 ## Apresentação  
 * Aula de Música  
