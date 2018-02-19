@@ -56,10 +56,13 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Projetos desenvolvidos 
 
-* Projeto integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S
+* Projeto integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S  
+
+* Orientadores: Daniela Beny Polito Moraes.  
+
 ![](Exportec.png)
 
-* Orientadores: Daniela Beny Polito Moraes.
+
 
 ## Apresentação  
 * Aula de Música  
