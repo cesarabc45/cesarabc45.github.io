@@ -29,36 +29,30 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Games  
 
+* Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadore.  
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 
+* É um jogo que tem com personagem principal uma garata, essa garota percorre caminhos coletandos pergaminhos e moedas. É um jogo em touch, que funciona tanto nas plataformas de celulares e computadores.
 [Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner/)  
 [![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
 
+* É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 
 
 ## Artes dos jogos 
-#### Jogo Animal Skills:  
-* Fases 1  e 2      
-![](fase1.png)  ![](fase2.png)  
 
-* Fases 3 e final  
-![](fase3.png)  ![](fasefinal.png)  
-
-#### Jogo Adventuri Runner:  
-* Fases 1 e 2   
-![](fase1.1.png)  ![](fase2.2.png)  
-
-#### Pense se você puder:
-* Jogo ainda está em desenvolvimento, por isso ainda não tem as artes desse jogo.  
+* _ Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos. 
 
 ## Projetos desenvolvidos 
 
 * Projeto integrador(PI) - MATEMÁTICA NA CRIAÇÃO DE RPG´S  
 
 * Orientadores: Daniela Beny Polito Moraes.  
+
+* Equipe: Felipe Barboza e Jefferson Leocardo.
 
 ![](Exportec.png)  
 
@@ -76,12 +70,9 @@ Equipe: Jefferson Leocardo e João Kennedy.
 
 
 ## Apresentação  
-* Aula de Música  
-* Aula de teatro  
-* Aula de jogos  
-1. Marcelo  
-2. Durval  
-3. Tiago  
+
+* Apresentei um projeto da diciplina PI- Projeto integrador, na I Exportec, no  IFRN-CAMPUS Ceará-Mirim/RN. Tendo como título Matemática na crianção de RPG's. Esse jogo tem como objetivo relacionar a probabilidade matemática com cultura nórdica , conhecida como a cultura vikings, também iremos relacionar o elemento fogo.  
+
 
 * * *
 
