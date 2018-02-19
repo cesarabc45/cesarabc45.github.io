@@ -67,7 +67,7 @@ Criando a _minha_ **página** ~~principal~~
 [Jogo 5seg](https://cesarabc45.github.io/5seg/)    
 [![](5seg1.png)](https://cesarabc45.github.io/5seg/)  
 
-[Tutorial Multi-idomas](file:///C:/Users/Julio%20C%C3%A9sar/Downloads/Tutorial%20Multiplos%20Idiomas.pdf)  
+[Tutorial Multi-idomas](https://drive.google.com/open?id=0B-i9Pv-U5eQONERXWlZmZmhLQWRmVGFndzJjeHZyMWJSdjJn)  
 Equipe: Jefferson Leocardo e João Kennedy.
 
 
