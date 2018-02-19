@@ -32,15 +32,15 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Games  
 
-* Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadore.  
+* Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadores.  
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 
-* É um jogo que tem com personagem principal uma garata, essa garota percorre caminhos coletandos pergaminhos e moedas. É um jogo em touch, que funciona tanto nas plataformas de celulares e computadores.
+* É um jogo que tem com personagem principal uma garota, essa garota percorre caminhos coletandos pergaminhos e moedas. É um jogo em touch, que funciona tanto nas plataformas de celulares e computadores.  
 [Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner/)  
 [![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
 
-* É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.
+* É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.  
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 
