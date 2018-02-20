@@ -47,7 +47,7 @@ Criando a _minha_ **página** ~~principal~~
 
 ## Artes dos jogos 
 
-* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos. 
+* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos._ 
 
 ## Projetos desenvolvidos 
 
