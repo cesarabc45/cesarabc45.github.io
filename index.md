@@ -65,7 +65,7 @@ Criando a _minha_ **página** ~~principal~~
 
 * Equipe: Arthur Soares, Felipe Barboza e Marcelo Vitaliano.  
 
-![](Game1.png)  ![](Game2.png)    
+![](Game1.jpg)  ![](Game2.jpg)    
 
 
 ## Trabalhos relacionados 
