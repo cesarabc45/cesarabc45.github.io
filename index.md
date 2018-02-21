@@ -55,9 +55,18 @@ Criando a _minha_ **página** ~~principal~~
 
 * Orientadores: Daniela Beny Polito Moraes.  
 
-* Equipe: Felipe Barboza e Jefferson Leocardo.
+* Equipe: Felipe Barboza e Jefferson Leocardo.  
 
 ![](Exportec.png)  
+
+* Projeto de Interface - Maquete 3D de um jogo    
+
+* Orinetador: Marcelo de Barros.  
+
+* Equipe: Arthur Soares, Felipe Barboza e Marcelo Vitaliano.  
+
+![](Game1.png)  ![](Game2.png)    
+
 
 ## Trabalhos relacionados 
 
