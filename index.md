@@ -79,7 +79,15 @@ Criando a _minha_ **página** ~~principal~~
 Equipe: Jefferson Leocardo e João Kennedy.  
 
 #### Influence map  
-![](map.png)
+![](map.png)  
+
+#### Jogo da velha em C++  
+
+* Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a Objetos (POO) 
+
+[Jogo da Velha em C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf) 
+
+
 
 
 
