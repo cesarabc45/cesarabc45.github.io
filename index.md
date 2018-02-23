@@ -91,7 +91,7 @@ Equipe: Jefferson Leocardo e João Kennedy.
 
 * Inspiração: Capitão América  
 
-![](desing capitao america.png)    
+![](desing capitao america.png)      
 
 
 
