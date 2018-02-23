@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-Criando a _minha_ **página** ~~principal~~ 
-
 # Quem sou eu 
 
   ![](cesar.png)  
@@ -35,14 +32,17 @@ Criando a _minha_ **página** ~~principal~~
 * Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadores.  
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
+* Equipe: Arthur Soares.
 
 * É um jogo que tem com personagem principal uma garota, essa garota percorre caminhos coletandos pergaminhos e moedas. É um jogo em touch, que funciona tanto nas plataformas de celulares e computadores.  
 [Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner/)  
 [![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
+* Equipe: Tailson Ferreira.  
 
 * É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.  
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
+* Equipe: Jefferson Leocardo e João Kennedy.  
 
 
 ## Artes dos jogos 
@@ -67,7 +67,13 @@ Criando a _minha_ **página** ~~principal~~
 
 ![](Game1.jpg)  
 
-![](Game2.jpg)    
+![](Game2.jpg)  
+
+* Projeto integrador(PI) - Torre Defence.  
+
+* Orientadores: Marcelo de Barros.     
+
+* Equipe: João Kennedy e Jeffeson Leocardo.  
 
 
 ## Trabalhos relacionados 
@@ -100,14 +106,3 @@ Equipe: Jefferson Leocardo e João Kennedy.
 
 
 * * *
-
-** negrito  
-_ italico  
-~~ riscando  
-  dois espaços para pular linha  
-3* adiciona uma linha horizontal  
-#s uma ou mais hashtags criam capítulos ou sub  
-*s  asterisco adicionam ula lista não numerada  
-is  numeros adicionam uma lista numerada   
-  
-  * * *
