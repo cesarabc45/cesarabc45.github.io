@@ -85,9 +85,13 @@ Equipe: Jefferson Leocardo e João Kennedy.
 
 * Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a Objetos (POO) 
 
-[Jogo da Velha em C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf) 
+[Jogo da Velha em C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)  
 
+#### Releitura de Pôsters  
 
+* Inspiração: Capitão América  
+
+![](desing capitao america.png)    
 
 
 
