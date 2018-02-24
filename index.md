@@ -6,9 +6,7 @@ layout: default
 
   ![](cesar.png)  
   
-  * Tudo bem, galera? Sou Julio César, mas todos conhece-me por César.
-
-  * Cursando o 3º ano de programação de jogos Digitais, IFRN-campus Ceará-Mirim/RN.  
+  * Sou Julio César, 18 anos, curso programação de jogos digitais, no Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte(IFRN), Campus Ceará-Mirim. Estou atualmente no 3º ano da forma integrada.  
   
 ## Contatos pessoais  
   
@@ -75,6 +73,7 @@ layout: default
 
 * Equipe: João Kennedy e Jeffeson Leocardo.  
 
+[![](towerDefense.png)](https://jefferson141.github.io/Torre%20Defence/)  
 
 ## Trabalhos relacionados 
 
