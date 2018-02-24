@@ -40,7 +40,7 @@ layout: default
 * É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.  
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
-* Equipe: Jefferson Leocardo e João Kennedy.  
+* Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)
 
 * * *  
 
@@ -66,6 +66,7 @@ layout: default
 * Orinetador: Marcelo de Barros.  
 
 * Equipe: Arthur Soares, Felipe Barboza e Marcelo Vitaliano.  
+
 ![](Game1.jpg)  
 
 ![](Game2.jpg)  
