@@ -66,7 +66,6 @@ layout: default
 * Orinetador: Marcelo de Barros.  
 
 * Equipe: Arthur Soares, Felipe Barboza e Marcelo Vitaliano.  
-
 ![](Game1.jpg)  
 
 ![](Game2.jpg)  
@@ -77,7 +76,6 @@ layout: default
 * Orientadores: Marcelo de Barros.     
 
 * Equipe: João Kennedy e Jeffeson Leocardo.  
-
 [![](towerDefense.png)](https://jefferson141.github.io/Torre%20Defence/)  
 
 * * *
