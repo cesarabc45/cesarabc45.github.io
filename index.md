@@ -120,7 +120,12 @@ Disciplina:  Motores.
 
 ## Apresentação  
 
-* Apresentei um projeto da diciplina PI- Projeto integrador, na I Exportec, no  IFRN-CAMPUS Ceará-Mirim/RN. Tendo como título Matemática na crianção de RPG's. Esse jogo tem como objetivo relacionar a probabilidade matemática com cultura nórdica , conhecida como a cultura vikings, também iremos relacionar o elemento fogo.  
+* Apresentei um projeto da diciplina PI- Projeto integrador, na I Exportec, no  IFRN-CAMPUS Ceará-Mirim/RN. Tendo como título Matemática na crianção de RPG's. Esse jogo tem como objetivo relacionar a probabilidade matemática com cultura nórdica , conhecida como a cultura vikings, também iremos relacionar o elemento fogo.    
 
 
-* * *
+* * *  
+
+É só isso que temos...  
+
+* * *  
+
