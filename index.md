@@ -42,10 +42,13 @@ layout: default
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 * Equipe: Jefferson Leocardo e João Kennedy.  
 
+* * *  
 
 ## Artes dos jogos 
 
-* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos._ 
+* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos._  
+
+* * *  
 
 ## Projetos desenvolvidos 
 
@@ -55,7 +58,8 @@ layout: default
 
 * Equipe: Felipe Barboza e Jefferson Leocardo.  
 
-![](Exportec.png)  
+![](Exportec.png)   
+
 
 * Projeto de Interface - Maquete 3D de um jogo    
 
@@ -67,6 +71,7 @@ layout: default
 
 ![](Game2.jpg)  
 
+
 * Projeto integrador(PI) - Torre Defence.  
 
 * Orientadores: Marcelo de Barros.     
@@ -74,6 +79,8 @@ layout: default
 * Equipe: João Kennedy e Jeffeson Leocardo.  
 
 [![](towerDefense.png)](https://jefferson141.github.io/Torre%20Defence/)  
+
+* * *
 
 ## Trabalhos relacionados 
 
@@ -96,8 +103,9 @@ Equipe: Jefferson Leocardo e João Kennedy.
 
 * Inspiração: Capitão América  
 
-![](capitão américa.png)      
+![](capitão américa.png)  
 
+* * *
 
 ## Apresentação  
 
