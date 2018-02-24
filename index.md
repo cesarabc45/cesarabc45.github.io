@@ -30,17 +30,17 @@ layout: default
 * Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadores.  
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
-* Equipe: Arthur Soares.
+* Equipe: [Arthur Soares](https://reiarthursr.github.io)  
 
 * É um jogo que tem com personagem principal uma garota, essa garota percorre caminhos coletandos pergaminhos e moedas. É um jogo em touch, que funciona tanto nas plataformas de celulares e computadores.  
 [Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner/)  
 [![](jogo2.png)](https://cesarabc45.github.io/AdventuriRunner/)  
-* Equipe: Tailson Ferreira.  
+* Equipe: [Tailson Ferreira](https://tayllson.github.io/)    
 
 * É um jogo de labirinto, que tem como objetivo chegar no final do labirinto sem ser derrotado pelos inimigos.  
 [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
 [![](jogo3.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)  
-* Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)
+* Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)  
 
 * * *  
 
@@ -56,7 +56,7 @@ layout: default
 
 * Orientadores: Daniela Beny Polito Moraes.  
 
-* Equipe: Felipe Barboza e Jefferson Leocardo.  
+* Equipe: [Felipe Barboza](https://felipecastroifrn.github.io/) e [Jefferson Leocardo](https://jefferson141.github.io/)  
 
 ![](Exportec.png)   
 
@@ -65,7 +65,7 @@ layout: default
 
 * Orinetador: Marcelo de Barros.  
 
-* Equipe: Arthur Soares, Felipe Barboza e Marcelo Vitaliano.  
+* Equipe: [Arthur Soares](reiarthursr.github.io) , [Felipe Barboza](felipecastroifrn.github.io) e Marcelo Vitaliano.    
 
 ![](Game1.jpg)  
 
@@ -76,7 +76,7 @@ layout: default
 
 * Orientadores: Marcelo de Barros.     
 
-* Equipe: João Kennedy e Jeffeson Leocardo.  
+* Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)     
 [![](towerDefense.png)](https://jefferson141.github.io/Torre%20Defence/)  
 
 * * *
@@ -85,9 +85,10 @@ layout: default
 
 [Jogo 5seg](https://cesarabc45.github.io/5seg/)    
 [![](5seg1.png)](https://cesarabc45.github.io/5seg/)  
+Equipe: [Mychellangello](https://mychellangello.github.io/)    
 
 [Tutorial Multi-idomas](https://drive.google.com/open?id=0B-i9Pv-U5eQONERXWlZmZmhLQWRmVGFndzJjeHZyMWJSdjJn)  
-Equipe: Jefferson Leocardo e João Kennedy.  
+Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)   
 
 #### Influence map  
 ![](map.png)  
