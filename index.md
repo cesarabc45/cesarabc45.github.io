@@ -85,25 +85,30 @@ layout: default
 
 [Jogo 5seg](https://cesarabc45.github.io/5seg/)    
 [![](5seg1.png)](https://cesarabc45.github.io/5seg/)  
-Equipe: [Mychellangello](https://mychellangello.github.io/)    
+Equipe: [Mychellangello](https://mychellangello.github.io/)  
+Disciplinas: Game Design e Motores.  
 
 [Tutorial Multi-idomas](https://drive.google.com/open?id=0B-i9Pv-U5eQONERXWlZmZmhLQWRmVGFndzJjeHZyMWJSdjJn)  
 Equipe: [Jefferson Leocardo](https://jefferson141.github.io/) e [João Kennedy](https://kkenedy.github.io/)   
 
 #### Influence map  
 ![](map.png)  
+Disciplina: Motores.  
 
 #### Jogo da velha em C++  
 
 * Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a Objetos (POO) 
 
 [Jogo da Velha em C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)  
+Disciplina:  Motores.
 
 #### Releitura de Pôsters  
 
 * Inspiração: Capitão América  
 
 ![](capitão américa.png)  
+
+* Disciplina: Design
 
 * * *
 
