@@ -6,7 +6,7 @@ layout: default
 
   ![](cesar.png)  
   
-  * Sou Julio César, 18 anos, curso programação de jogos digitais, no Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte(IFRN), Campus Ceará-Mirim. Estou atualmente no 3º ano da forma integrada.  
+  * Sou Julio César, 18 anos, curso programação de jogos digitais, no Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte(IFRN), Campus Ceará-Mirim. Estou atualmente no 4º ano da forma integrada.  
   
 ## Contatos pessoais  
   
