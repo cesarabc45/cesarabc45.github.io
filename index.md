@@ -31,7 +31,7 @@ layout: default
 
 ## Games  
 
-* Jogo sobre a cultura dos animas. Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadores.  
+* Jogo sobre a cultura dos animais. O Jogo retrata as habilidades de 3 animais, largato, leopardo e passaro. Esse jogo só está disponível para computadores.  
 [Animal Skills](https://cesarabc45.github.io/Animal%20Skills/)  
 [![](jogo1.png)](https://cesarabc45.github.io/Animal%20Skills/)  
 * Equipe: [Arthur Soares](https://reiarthursr.github.io)  
@@ -50,7 +50,7 @@ layout: default
 
 ## Artes dos jogos 
 
-* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou algum dos meus paceiros fizeram. Sou mais focado na programação dos jogos._  
+* _Os jogos que eu desenvolvi, junto com alguns paceiros, na maioria das vezes foi com artes já feitas, ou alguns dos meus paceiros fizeram. Sou mais focado na programação dos jogos._  
 
 * * *  
 
